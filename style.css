@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+body{
+    background-color: black;
+}
+img{
+    width: 200px;
+    height: 100px;
+}
+
+.headers{
+    gap: 20px;
+
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.headerlogo{
+
+    font-size: 15px;
+    font-weight: 900;
+    
+
+}
+.button{
+    display: flex;
+    justify-content: start;
+    width: 70px;
+    height: 40px;
+}
+
+
+h1{
+    font-weight: 900;
+    -webkit-text-fill-color: white;
+    font-size: 48px;
+    font-family: roboto;
+
+
+}
+.container2{
+    -webkit-text-fill-color: white;
+    width: 700px;
+    background-color: #1f2937;
+}
+.squar1 {
+    width: 125px;
+    height: 70px;
+    background-color: grey;
+    margin: 10px;
+
+}
+.squar2{
+    width: 125px;
+    height: 70px;
+    background-color: grey;
+    margin: 10px;
+
+}
+.squar3{
+    width: 125px;
+    height: 70px;
+    background-color: grey;
+    margin: 10px;
+
+}
+.squar4{
+    width: 125px;
+    height: 70px;
+    background-color: grey;
+    margin: 10px;
+}
+.total{
+
+
+    background-color: #1f2937;
+    
+
+}
+p{
+    color: green;
+}
+.section1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 50px;
+    border: 10px;
+    margin: 10px;
+    background-color: #1f2937;
+}
+.random{
+    display: flex;   
+    padding: 10px;
+    border: 10px;
+    justify-content: center;
+}
+.subtext{
+    display: flex; 
+    justify-content: space-around;  
+    margin: 5px;
+}
+p{
+    color: green;
+    font-weight: 600;
+    margin: 15px;
+}
+.henry{
+    display: flex;
+    justify-content: end;
+}
+.total1{
+    background-color: white;
+}
+.section2 {
+    display: flex; 
+    justify-content: space-around;  
+    background-color: white;
+    
+
+}
+.section3 {
+    padding: 50px;
+    background-color: white;
+
+}
+.section4 {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 60px;
+    background-color: #3882f6; 
+}
+h2 {color: white;}
+
+
+.Singup{
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    width: 95px;
+    height: 100px;
+    border: 25px;
+
+}
+
