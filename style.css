@@ -52,8 +52,9 @@ h1{
 .squar1 {
     width: 125px;
     height: 70px;
-    background-color: grey;
+    background-color: rgb(146, 20, 20);
     margin: 10px;
+    border-radius: 15%;
 
 }
 .squar2{
@@ -61,6 +62,8 @@ h1{
     height: 70px;
     background-color: grey;
     margin: 10px;
+    border-radius: 15%;
+
 
 }
 .squar3{
@@ -68,6 +71,8 @@ h1{
     height: 70px;
     background-color: grey;
     margin: 10px;
+    border-radius: 15%;
+
 
 }
 .squar4{
@@ -75,6 +80,8 @@ h1{
     height: 70px;
     background-color: grey;
     margin: 10px;
+    border-radius: 15%;
+
 }
 .total{
 
@@ -101,6 +108,25 @@ p{
     border: 10px;
     justify-content: center;
 }
+.subs1{
+width: 125px;
+height: 75px;
+}
+.subs2{
+    width: 125px;
+    height: 75px;}
+    
+.subs2{
+    width: 125px;
+    height: 75px;}
+
+.subs3{
+    width: 125px;
+    height: 75px;
+    }
+.subs4{
+    width: 125px;
+    height: 75px;}    
 .subtext{
     display: flex; 
     justify-content: space-around;  
